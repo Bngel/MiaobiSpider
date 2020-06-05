@@ -1,2 +1,4 @@
 # MiaobiSpider
-Just a learning thing for my spider
+通过输入书名
+从 "妙笔文学网"上爬下的小说内容
+分章节保存.
